@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
+
+
+
+
 About Me 
 ======
 I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [University of Notre Dame](https://www.nd.edu/). I am very fortunate to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/) and working in [DM2: Data Mining towards Decision Making lab](http://www.meng-jiang.com/lab.html). My current research focuses on AI for Science, especially graph learning for polymer prediction & generation.
