@@ -17,24 +17,24 @@ I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [Universi
 
 ## Education 
 ------
-- ![](/icons/education_icon.png) **2021 - 2023**     M.S. in Electrical Engineering, Columbia University (Master of Science Award of Excellence)
+- ![](/education_icon.png) **2021 - 2023**     M.S. in Electrical Engineering, Columbia University (Master of Science Award of Excellence)
 
-- ![](/icons/education_icon.png) **2017 - 2021**     B.S. in Electrical Science and Technology, Southeast University
+- ![](/education_icon.png) **2017 - 2021**     B.S. in Electrical Science and Technology, Southeast University
 
 
 
 ## Experience 
 ------
-Jun 2023 - Jun 2024     Sophon - AI Engineer
+**Jun 2023 - Jun 2024**    Sophon - AI Engineer
 
-Sep 2022 - Dec 2022     Columbia University - Teaching Assistant
+**Sep 2022 - Dec 2022**    Columbia University - Teaching Assistant
 
-Sep 2020 - Feb 2021     Whale Cloud Computing Co., Ltd - Software Engineer Internship
+**Sep 2020 - Feb 2021**     Whale Cloud Computing Co., Ltd - Software Engineer Internship
 
-Sep 2020 - Nov 2020     Tencent Cloud Computing Co., Ltd Cloud Service Platform - Data Engineer Internship
+**Sep 2020 - Nov 2020**     Tencent Cloud Computing Co., Ltd Cloud Service Platform - Data Engineer Internship
 
 
-## My Cat
+## About My Cat
 ------
 His name is $.
 
