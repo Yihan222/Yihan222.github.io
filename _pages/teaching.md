@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Experience."
+permalink: /teaching/
+author_profile: true
+---
+
 **Professional**
 
 - Jun 2023 - Jun 2024     Sophon - AI Engineer
