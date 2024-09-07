@@ -17,9 +17,9 @@ I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [Universi
 
 ## Education 
 ------
-2021 - 2023     M.S. in Electrical Engineering, Columbia University (Master of Science Award of Excellence)
+- ![](/icons/education_icon.png) **2021 - 2023**     M.S. in Electrical Engineering, Columbia University (Master of Science Award of Excellence)
 
-2017 - 2021     B.S. in Electrical Science and Technology, Southeast University
+- ![](/icons/education_icon.png) **2017 - 2021**     B.S. in Electrical Science and Technology, Southeast University
 
 
 
