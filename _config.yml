@@ -21,10 +21,10 @@ repository               : "Yihan222/Yihan222.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_8569(1).jpg"
+  avatar           : "IMG_8560(1).jpg"
   name             : "Yihan Zhu/ 一涵 朱"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "a first-year CSE PhD & a dreamer"
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
   uri              : # URL
