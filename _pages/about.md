@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me 
+About Me 
 ======
 I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [University of Notre Dame](https://www.nd.edu/). I am very fortunate to be advised by [Prof. Meng Jiang](http://www.meng-jiang.com/) and working in [DM2: Data Mining towards Decision Making lab](http://www.meng-jiang.com/lab.html). My current research focuses on AI for Science, especially graph learning for polymer prediction & generation.
 
@@ -16,14 +16,14 @@ I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [Universi
 
 
 
-## Education 
+Education 
 ======
 - ![](/education_icon.png) **2021 - 2023**     M.S. in Electrical Engineering, Columbia University (Master of Science Award of Excellence)
 
 - ![](/education_icon.png) **2017 - 2021**     B.S. in Electrical Science and Technology, Southeast University
 
 
-## Contact
+Contact
 ======
 I’m always open to interesting conversations and collaboration.
 
@@ -32,7 +32,7 @@ I’m always open to interesting conversations and collaboration.
 - 🌆 Location: University of Notre Dame, Notre Dame, IN 46565
 
 
-## About My Cat 🐱
+About My Cat 🐈
 ======
 His name is 💲.
 
