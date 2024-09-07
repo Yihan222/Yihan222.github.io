@@ -26,8 +26,11 @@ I'm a first-year PhD student from [CSE](https://cse.nd.edu/graduate/), [Universi
 ## Experience 
 ------
 Jun 2023 - Jun 2024     Sophon - AI Engineer
+
 Sep 2022 - Dec 2022     Columbia University - Teaching Assistant
+
 Sep 2020 - Feb 2021     Whale Cloud Computing Co., Ltd - Software Engineer Internship
+
 Sep 2020 - Nov 2020     Tencent Cloud Computing Co., Ltd Cloud Service Platform - Data Engineer Internship
 
 
